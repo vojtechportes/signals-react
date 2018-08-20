@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Logout</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="71.8647204%" x2="100%" y2="34.7502056%" id="logout_linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.213569973" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.599439538" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8,18.39 L8,9.04 C8,7.918 8.86631016,7 9.92513369,7 L18.0748663,7 C19.1336898,7 20,7.918 20,9.04 L20,10.4 C20,10.774 19.7112299,11.08 19.3582888,11.08 C19.0053476,11.08 18.7165775,10.774 18.7165775,10.4 L18.7165775,9.04 C18.7165775,8.666 18.4278075,8.36 18.0748663,8.36 L11.5935829,8.36 L15.9251337,10.468 C16.1497326,10.57 16.3101604,10.808 16.3101604,11.08 L16.3101604,19.24 L18.0427807,19.24 C18.3957219,19.24 18.684492,18.934 18.684492,18.56 L18.684492,17.2 C18.684492,16.826 18.973262,16.52 19.3262032,16.52 C19.6791444,16.52 19.9679144,16.826 19.9679144,17.2 L19.9679144,18.56 C19.9679144,19.682 19.1016043,20.6 18.0427807,20.6 L16.3101604,20.6 L16.3101604,23.32 C16.3101604,23.694 16.0213904,24 15.6684492,24 C15.5721925,24 15.5080214,23.966 15.4117647,23.932 L9.6684492,21.144 C8.67379679,20.668 8,19.58 8,18.39 Z M23.1666667,11.1468706 L24.8333333,13.0293741 C25.0555556,13.2803746 25.0555556,13.6568753 24.8333333,13.9078758 L23.1666667,15.7903793 C23.1666667,15.8217543 23.1388889,15.8217543 23.1111111,15.8531294 C22.8888889,16.0727548 22.5277778,16.0413798 22.3333333,15.7903793 C22.1388889,15.5393788 22.1666667,15.1315031 22.3888889,14.9118776 L23.1111111,14.0961261 L20.5555556,14.0961261 C20.25,14.0961261 20,13.8137506 20,13.4686249 C20,13.1234993 20.25,12.8411238 20.5555556,12.8411238 L23.1111111,12.8411238 L22.3888889,12.0253722 C22.2222222,11.8057468 22.2222222,11.4292461 22.3888889,11.2096207 C22.5833333,10.9586202 22.9444444,10.9272452 23.1666667,11.1468706 Z" id="logout_path-2"></path>
+        <filter x="-61.8%" y="-61.8%" width="223.5%" height="223.5%" filterUnits="objectBoundingBox" id="logout_filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.155174366 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="logout_Icon/Logout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="logout_Rectangle-Copy-7" fill="#FFFFFF" opacity="0" x="0" y="0" width="31" height="31"></rect>
+        <g id="logout_Shape" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#logout_filter-3)" xlink:href="#logout_path-2"></use>
+            <use fill="url(#logout_linearGradient-1)" fill-rule="evenodd" xlink:href="#logout_path-2"></use>
+        </g>
+    </g>
+</svg>

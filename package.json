@@ -1,0 +1,42 @@
+{
+	"name": "signal-react",
+	"version": "0.0.0",
+	"description": "",
+	"main": "webpack.config.js",
+	"dependencies": {
+		"webpack-cli": "latest",
+		"webpack": "latest",
+		"babel-loader": "latest",
+		"babel-core": "latest",
+		"babel-preset-env": "latest",
+		"babel-preset-react": "latest",
+		"babel-plugin-transform-object-rest-spread": "latest",
+		"babel-plugin-transform-es2015-parameters": "latest",
+		"babel-plugin-transform-decorators": "latest",
+		"babel-plugin-transform-decorators-legacy": "latest",
+		"babel-plugin-transform-export-extensions": "latest",
+		"react": "latest",
+		"react-dom": "latest",
+		"react-router": "latest",
+		"react-router-dom": "latest",
+		"react-addons-css-transition-group": "latest",
+		"styled-components": "latest",
+		"polished": "latest",
+		"svg-react-loader": "latest",
+		"prop-types": "latest",
+		"html-webpack-plugin": "latest",
+		"copy-webpack-plugin": "latest",
+		"html-loader": "latest",
+		"file-loader": "latest",
+		"webpack-replace-loader": "latest",
+		"webpack-dev-server": "latest"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"dev": "webpack-dev-server --config webpack.dev.js",
+		"build": "webpack --mode production",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC"
+}

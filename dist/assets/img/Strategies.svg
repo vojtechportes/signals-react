@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Strategies</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="71.8647204%" x2="100%" y2="34.7502056%" id="strategies_linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.213569973" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.599439538" offset="100%"></stop>
+        </linearGradient>
+        <path d="M22,18.7928932 C19.790861,18.7928932 18,17.0020322 18,14.7928932 C18,12.5837542 19.790861,10.7928932 22,10.7928932 C24.209139,10.7928932 26,12.5837542 26,14.7928932 C26,17.0020322 24.209139,18.7928932 22,18.7928932 Z M11.3535534,7.81801948 L15.0251263,4.14644661 C15.2203884,3.95118446 15.5369709,3.95118446 15.732233,4.14644661 L19.4038059,7.81801948 C19.5990681,8.01328163 19.5990681,8.32986412 19.4038059,8.52512627 L15.732233,12.1966991 C15.5369709,12.3919613 15.2203884,12.3919613 15.0251263,12.1966991 L11.3535534,8.52512627 C11.1582912,8.32986412 11.1582912,8.01328163 11.3535534,7.81801948 Z M11.3535534,21.0606602 L15.267767,17.1464466 C15.4630291,16.9511845 15.7796116,16.9511845 15.9748737,17.1464466 L19.8890873,21.0606602 C20.0843494,21.2559223 20.0843494,21.5725048 19.8890873,21.767767 L15.9748737,25.6819805 C15.7796116,25.8772427 15.4630291,25.8772427 15.267767,25.6819805 L11.3535534,21.767767 C11.1582912,21.5725048 11.1582912,21.2559223 11.3535534,21.0606602 Z M9,18.7928932 C6.790861,18.7928932 5,17.0020322 5,14.7928932 C5,12.5837542 6.790861,10.7928932 9,10.7928932 C11.209139,10.7928932 13,12.5837542 13,14.7928932 C13,17.0020322 11.209139,18.7928932 9,18.7928932 Z" id="strategies_path-2"></path>
+        <filter x="-50.0%" y="-48.1%" width="200.0%" height="196.2%" filterUnits="objectBoundingBox" id="strategies_filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.155174366 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="strategies_Icon/Strategies" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="strategies_Rectangle-Copy-3" fill="#FFFFFF" opacity="0" x="0" y="0" width="31" height="31"></rect>
+        <g id="strategies_Combined-Shape">
+            <use fill="black" fill-opacity="1" filter="url(#strategies_filter-3)" xlink:href="#strategies_path-2"></use>
+            <use fill="url(#strategies_linearGradient-1)" fill-rule="evenodd" xlink:href="#strategies_path-2"></use>
+        </g>
+    </g>
+</svg>

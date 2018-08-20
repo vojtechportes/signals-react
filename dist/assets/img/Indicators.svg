@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Indicators</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="71.8647204%" x2="100%" y2="34.7502056%" id="indicators_linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.213569973" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.599439538" offset="100%"></stop>
+        </linearGradient>
+        <path d="M13.1934559,20.1839508 C13.2027734,20.2880549 13.2075327,20.3934717 13.2075327,20.5 C13.2075327,22.4329966 11.6405293,24 9.70753265,24 C9.45945073,24 9.21739719,23.9741894 8.98391089,23.9251071 L5.29328704,28.266716 C5.11443666,28.4771136 4.79888882,28.5026876 4.58849121,28.3238373 L3.82657409,27.6761627 C3.61617649,27.4973124 3.59060241,27.1817645 3.7694528,26.9713669 L7.19724561,22.9389495 C6.58471342,22.3086145 6.20753265,21.4483549 6.20753265,20.5 C6.20753265,18.5670034 7.77453603,17 9.70753265,17 C10.8164769,17 11.8049646,17.5157356 12.4462274,18.3204385 L17.2296268,15.895463 C17.2150299,15.765658 17.2075327,15.6337046 17.2075327,15.5 C17.2075327,14.9806719 17.3206401,14.4877615 17.5235646,14.0445593 L13.5165334,11.5883078 C12.8785485,12.4450673 11.8578463,13 10.7075327,13 C9.46056034,13 8.36589665,12.3478892 7.74596296,11.3660891 L4.02682068,12.7607675 C3.76826052,12.8577275 3.48005444,12.7267248 3.38309437,12.4681646 L3.03197093,11.5318354 C2.93501087,11.2732752 3.06601364,10.9850692 3.3245738,10.8881091 L7.20818471,9.43175501 C7.24454952,7.53025543 8.79733593,6 10.7075327,6 C12.6405293,6 14.2075327,7.56700338 14.2075327,9.5 C14.2075327,9.55487952 14.2062696,9.60946404 14.2037709,9.66372607 L18.8671862,12.5223314 C19.4018675,12.1911692 20.0323751,12 20.7075327,12 C21.310291,12 21.8774618,12.1523681 22.3726299,12.4206892 L26.1468725,8.64644661 C26.3421346,8.45118446 26.6587171,8.45118446 26.8539793,8.64644661 L27.561086,9.35355339 C27.7563482,9.54881554 27.7563482,9.86539803 27.561086,10.0606602 L23.7868435,13.8349027 C24.0551645,14.3300709 24.2075327,14.8972417 24.2075327,15.5 C24.2075327,15.7321602 24.1849287,15.9590411 24.1418017,16.1785617 L27.4574966,18.910267 C27.6706235,19.0858561 27.7010539,19.4009727 27.5254648,19.6140996 L26.8896005,20.3859004 C26.7140114,20.5990273 26.3988948,20.6294577 26.1857679,20.4538686 L23.1798762,17.9774013 C22.5467017,18.6092912 21.6727446,19 20.7075327,19 C19.6259702,19 18.6589892,18.5094188 18.0169714,17.7386382 L13.1934559,20.1839508 Z" id="indicators_path-2"></path>
+        <filter x="-42.4%" y="-46.6%" width="184.7%" height="193.2%" filterUnits="objectBoundingBox" id="indicators_filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.155174366 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="indicators_Icon/Indicators" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="indicators_Rectangle-Copy-4" fill="#FFFFFF" opacity="0" x="0" y="0" width="31" height="31"></rect>
+        <g id="indicators_Combined-Shape" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#indicators_filter-3)" xlink:href="#indicators_path-2"></use>
+            <use fill="url(#indicators_linearGradient-1)" fill-rule="evenodd" xlink:href="#indicators_path-2"></use>
+        </g>
+    </g>
+</svg>

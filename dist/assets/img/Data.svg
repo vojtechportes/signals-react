@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Data</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="31.4427426%" y1="3.30746299%" x2="68.5572574%" y2="103.307463%" id="data_linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.213569973" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.599439538" offset="100%"></stop>
+        </linearGradient>
+        <path d="M11.467699,23.700203 C11.3594193,23.700203 11.2511396,23.6731331 11.1699299,23.6189932 C8.89605598,21.9947976 7.5154897,19.3960846 7.5154897,16.6078821 C7.5154897,13.9279594 8.73363642,11.464596 10.8721607,9.84040037 C10.9804404,9.75919059 11.1428599,9.70505073 11.2782096,9.73212066 C11.4135592,9.75919059 11.5489088,9.84040037 11.6301186,9.97575 L15.555258,16.5808122 C15.6635377,16.7432318 15.6635377,16.9327213 15.555258,17.0951408 L11.9278878,23.4295037 C11.846678,23.5648534 11.7383983,23.6460632 11.6030487,23.6731331 C11.5489088,23.700203 11.494769,23.700203 11.467699,23.700203 Z M25.7313573,17.8166168 C25.7854972,17.9103898 25.8161938,18.0176977 25.8099122,18.1150974 C25.5402544,20.8964277 23.9799861,23.3913897 21.5653319,24.7854909 C19.2444507,26.1254523 16.5020421,26.302188 14.0261853,25.2622695 C13.9017157,25.2091014 13.7736195,25.0955119 13.7293879,24.9647607 C13.6851563,24.8340095 13.6878112,24.6761884 13.7644226,24.5381838 L17.5220045,17.8363823 C17.6085241,17.6613995 17.7726268,17.5666548 17.9674262,17.579218 L25.2668305,17.5534313 C25.4246516,17.5560862 25.5491212,17.6092543 25.6402392,17.7129355 C25.6907524,17.7462871 25.7178223,17.7931735 25.7313573,17.8166168 Z M13.3267728,8.26259681 C13.3809127,8.16882383 13.4584958,8.08858582 13.5459872,8.04532601 C16.0895188,6.88819128 19.0303534,6.99194231 21.4450076,8.38604356 C23.7658888,9.72600494 25.2901507,12.0126326 25.6274832,14.6767468 C25.6436731,14.8111246 25.6093498,14.978854 25.5182317,15.0825353 C25.4271137,15.1862165 25.2891091,15.2628279 25.131288,15.2654828 L17.4485666,15.3622221 C17.2537673,15.3747853 17.0896646,15.2800406 17.003145,15.1050578 L13.3311109,8.7964816 C13.2544996,8.65847705 13.2383097,8.52409918 13.2825413,8.393348 C13.2861679,8.33292654 13.3132379,8.28604005 13.3267728,8.26259681 Z" id="data_path-2"></path>
+        <filter x="-57.4%" y="-56.2%" width="214.8%" height="212.4%" filterUnits="objectBoundingBox" id="data_filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.155174366 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="data_Icon/Data" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="data_Rectangle-Copy-5" fill="#FFFFFF" opacity="0" x="0" y="0" width="31" height="31"></rect>
+        <g id="data_Shape-Copy-5" fill-rule="nonzero" transform="translate(16.663105, 16.592426) rotate(-120.000000) translate(-16.663105, -16.592426) ">
+            <use fill="black" fill-opacity="1" filter="url(#data_filter-3)" xlink:href="#data_path-2"></use>
+            <use fill="url(#data_linearGradient-1)" fill-rule="evenodd" xlink:href="#data_path-2"></use>
+        </g>
+    </g>
+</svg>

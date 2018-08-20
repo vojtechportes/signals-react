@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="71.8647204%" x2="100%" y2="34.7502056%" id="search_linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.213569973" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.599439538" offset="100%"></stop>
+        </linearGradient>
+        <path d="M13.0017954,17.603088 C14.9907344,17.603088 16.603088,15.9907344 16.603088,14.0017954 C16.603088,12.0128564 14.9907344,10.4005027 13.0017954,10.4005027 C11.0128564,10.4005027 9.40050271,12.0128564 9.40050271,14.0017954 C9.40050271,15.9907344 11.0128564,17.603088 13.0017954,17.603088 Z M16.9991243,17.0088194 L22,22.009695 L21.009695,23 L16.0088194,17.9991243 C15.1718423,18.6297447 14.130477,19.0035908 13.0017954,19.0035908 C10.2393801,19.0035908 8,16.7642107 8,14.0017954 C8,11.2393801 10.2393801,9 13.0017954,9 C15.7642107,9 18.0035908,11.2393801 18.0035908,14.0017954 C18.0035908,15.130477 17.6297447,16.1718423 16.9991243,17.0088194 Z" id="search_path-2"></path>
+        <filter x="-75.0%" y="-75.0%" width="250.0%" height="250.0%" filterUnits="objectBoundingBox" id="search_filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.155174366 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="search_Icon/Search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="search_Rectangle-Copy-8" fill="#FFFFFF" opacity="0" x="0" y="0" width="31" height="31"></rect>
+        <g id="search_Combined-Shape-Copy-10" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#search_filter-3)" xlink:href="#search_path-2"></use>
+            <use fill="url(#search_linearGradient-1)" fill-rule="evenodd" xlink:href="#search_path-2"></use>
+        </g>
+    </g>
+</svg>
