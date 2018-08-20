@@ -26,7 +26,7 @@ const Container = styled.nav`
 	min-height: 100%;
 	height: 100%;		
 	background-image: linear-gradient(0deg, ${props => props.theme.colors.primaryDark} 0%, ${props => props.theme.colors.primaryLight} 100%);
-    background-size: auto 900px;
+	background-size: auto 900px;
 	background-repeat: no-repeat;
 	background-color: ${props => props.theme.colors.primaryDark};	
 	color: ${props => props.theme.colors.light};
