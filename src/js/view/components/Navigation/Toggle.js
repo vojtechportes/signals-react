@@ -13,8 +13,7 @@ const Link = styled.a`
 		transform: rotate(0deg);
 		opacity: 0.25;
 		transition: transform 1s cubic-bezier(.42,0,1,1), opacity .5s cubic-bezier(.42,0,1,1);
-		pointer-events: none;
-		
+		pointer-events: none;	
 	}
 
 	&:hover {
